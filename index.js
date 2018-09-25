@@ -18,7 +18,7 @@ module.exports = class BotMap {
         'url': 'https://maps.googleapis.com/maps/api/geocode/json',
         'qs': { 
         'address':this.place,
-        'key': 'AIzaSyBzhXQGlpp20V71dGCT_67REdUlWe-Gpog'
+        'key': 'your-api-key'
         }
       };
 
